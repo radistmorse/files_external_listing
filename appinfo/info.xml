@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_external_listing</id>
+    <name>Interactive external storage folder listing</name>
+    <description>The application that does the folder browsing for 'local' external storages while you pick the folder</description>
+    <version>1.0</version>
+    <licence>AGPL</licence>
+    <author>George Sedov</author>
+    <require>8</require>
+</info>
